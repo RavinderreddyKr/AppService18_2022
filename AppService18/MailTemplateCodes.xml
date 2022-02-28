@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<MailTemplateCodes>
+  <MailTemplate key="APP_USERREGISTRATIONMAIL">
+    <Code>208</Code>
+  </MailTemplate>
+<MailTemplate key="APP_USERFORGOTPASSWORD">
+    <Code>209</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_ADMIN_TIMESHEET_CONFIRMATION">
+    <Code>201</Code>
+  </MailTemplate>
+<MailTemplate key="USER_TIMESHEET_CONFIRMATION">
+    <Code>202</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_ADMIN_TIMESHEET_DOCUMENT_CONFIRMATION">
+    <Code>203</Code>
+  </MailTemplate>
+<MailTemplate key="USER_TIMESHEET_DOCUMENT_CONFIRMATION">
+    <Code>204</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_ADMIN_ADDRESSCHANGE_EMAIL">
+    <Code>116</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_ADDRESSCHANGE_EMAIL">
+    <Code>115</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_ADMIN_WORKLOCATIONCHANGE_EMAIL">
+    <Code>197</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_WORKLOCATIONCHANGE_EMAIL">
+    <Code>196</Code>
+  </MailTemplate>
+  <MailTemplate key="ADMIN_WEEKLYSTATUSREPORT_CONFIRMATION">
+    <Code>210</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_WEEKLYSTATUSREPORT_CONFIRMATION">
+    <Code>211</Code>
+  </MailTemplate>
+  <MailTemplate key="ADMIN_USERINFO_CONFIRMATION">
+    <Code>212</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_USERINFO_CONFIRMATION">
+    <Code>213</Code>
+  </MailTemplate>
+  <MailTemplate key="ADMIN_VACATION_EMAIL">
+    <Code>129</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_VACATION_CONFIRMATION_EMAIL">
+    <Code>128</Code>
+  </MailTemplate>
+  <MailTemplate key="USER_VACATION_CANCEL_CONFIRMATION_EMAIL">
+    <Code>131</Code>
+  </MailTemplate>
+ </MailTemplateCodes> 
