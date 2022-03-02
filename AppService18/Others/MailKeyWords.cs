@@ -19,7 +19,10 @@ namespace AppService18.Others
         /// Admin
         /// </summary>
         public const string ADMIN = "<ADMIN_NAME>";
-
+        /// <summary>
+        /// User Email
+        /// </summary>
+        public const string USER_EMAIL = "<USER_EMAIL>";
         /// <summary>
         /// WorkAuthorization Type
         /// </summary>
